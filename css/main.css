@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #bad7e7;
+    margin: 0;
+}
+
+h1 { 
+    color: #fff ;
+}
+
+p{
+color: #333;
+}
+
+#mainHeader{
+    background-color: darkblue;
+
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.card{
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #aba4a4;
+}
